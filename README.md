@@ -4,7 +4,7 @@ Take-home for **Software Engineer Intern (LLM Observability & QA)** at Rhombus A
 
 > 🚧 **Work in progress.** The final README will have the four required sections: setup and how to run,
 > observations summary, usability feedback and demo video. Until then, the working plan is in
-> [`prereq_research/`](prereq_research/), mainly the [step-by-step runbook](prereq_research/03-step-by-step-runbook.md).
+> [`prereq_research/`](prereq_research/).
 
 ## What's here so far
 

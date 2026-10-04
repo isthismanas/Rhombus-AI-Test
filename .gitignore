@@ -20,3 +20,6 @@ playwright-report/
 
 # R session files
 .Rhistory
+
+# personal runbooks: kept local, never committed
+*runbook*.md
