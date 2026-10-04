@@ -72,7 +72,7 @@ def main(path: str) -> None:
     out = Path(__file__).resolve().parents[1] / "ENDPOINTS.generated.md"
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("\n".join(lines))
-    print(f"\n→ written to {out.name}. Paste this table to Claude.")
+    print(f"\n→ written to {out.name}. Use it to write the API tests.")
 
 
 if __name__ == "__main__":
