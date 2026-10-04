@@ -1,0 +1,62 @@
+# Cleaning contract: the single source of truth for "were the cleaning rules applied?"
+# These are exactly the rules given to the Rhombus AI builder (see observations/evidence/pipeline-build/).
+# The validator checks the GCS output against THIS contract, not against whatever the AI happened to build.
+version: 1
+key: order_id
+
+columns:            # expected output schema, in this order
+  - {name: order_id,      dtype: int,    nullable: false, unique: true}
+  - {name: customer_name, dtype: string, nullable: false, rules: [trimmed, single_spaced, title_case]}
+  - {name: email,         dtype: string, nullable: true,  rules: [trimmed, lower_case, contains_at]}
+  - {name: country,       dtype: string, nullable: false, rules: [trimmed],
+     allowed: [Australia, United States, United Kingdom, India, New Zealand, Unknown]}
+  - {name: order_date,    dtype: date,   nullable: false, format: "%Y-%m-%d", min: "2026-01-01", max: "2026-06-30"}
+  - {name: product,       dtype: string, nullable: false, rules: [trimmed, single_spaced]}
+  - {name: category,      dtype: string, nullable: false,
+     allowed: [Electronics, Home, Books, Sports, Fashion]}
+  - {name: quantity,      dtype: int,    nullable: false, min: 1, max: 20}
+  - {name: unit_price,    dtype: float,  nullable: false, min: 1.00, max: 1999.99, decimals: 2}
+  - {name: status,        dtype: string, nullable: false, rules: [lower_case],
+     allowed: [pending, shipped, delivered, cancelled]}
+
+# rule 3 of the prompt (keys are matched case-insensitively after trimming)
+country_map:
+  usa: United States
+  us: United States
+  u.s.: United States
+  united states: United States
+  uk: United Kingdom
+  u.k.: United Kingdom
+  united kingdom: United Kingdom
+  aus: Australia
+  au: Australia
+  australia: Australia
+  india: India
+  nz: New Zealand
+  new zealand: New Zealand
+
+input_date_formats: ["%m/%d/%Y", "%Y-%m-%d"]   # rule 4
+invalid_when:                                   # rule 5
+  quantity_le: 0
+  unit_price_lt: 0
+  order_date_unparseable: true
+  status_not_allowed: true
+dedupe: {subset: all, keep: first}              # rule 7
+imputation:                                     # rule 8
+  quantity:      {method: median, round: 0}
+  unit_price:    {method: median, round: 2}
+  country:       {method: constant, value: Unknown}
+  customer_name: {method: constant, value: Unknown}
+sort: {by: order_id, ascending: true}           # rule 10
+
+tolerances:
+  numeric_abs: 0.005          # float comparison tolerance
+  imputed_abs: 0.011          # allowed rounding difference on imputed medians
+  castable_fraction: 0.995    # SCH-02: share of non-null values that must parse to the contract dtype
+
+semantic:                     # production-style drift thresholds vs the reference profile
+  unit_price_median_ratio_max: 3.0      # cents drift gives ~100x
+  per_order_ratio_tolerance: 0.01       # SEM-02: |ratio - 1| above this counts as changed
+  date_out_of_window_max_fraction: 0.0
+  month_distribution_jsd_max: 0.10
+  categorical_jsd_max: 0.10

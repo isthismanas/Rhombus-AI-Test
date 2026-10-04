@@ -1,0 +1,527 @@
+order_id,customer_name,email,country,order_date,product,category,quantity,unit_price,status
+1125,Ava Allen,ava.allen18@example.com,Australia,06/29/2026,Mechanical Keyboard,Electronics,12,89.13,cancelled
+1085,Harper Martin,harper.martin8@example.com,United States,03/20/2026,Ceramic Mug Set,Home,12,,shipped
+1352,grace  BAKER,grace.baker31@example.com,Australia,03/31/2026,Ceramic Mug Set,Home,12,20.76,delivered
+1234,Emily Young,emily.young10@inbox.org,Aus,02/21/2026,Laptop Stand,Electronics,1,41.50,shipped
+1012,Mia Carter,mia.carter82@example.com,Australia,06/16/2026,Leather Wallet,Fashion,2,42.61,Delivered
+1115,Zara Nguyen,zara.nguyen86@example.com,usa,04/02/2026,Air Purifier,Home,1,170.15,shipped
+1305,Vikram Thomas,vikram.thomas94@example.com,India,02/30/2026,Yoga Mat,Sports,5,30.36,delivered
+1198,Jack Allen,jack.allen80@shopper.net,New Zealand,05/26/2026,Throw Blanket,Home,12,53.26,shipped
+1477,Liam Thomas,liam.thomas5@mail.com,Australia,03/12/2026,Wool Scarf,Fashion,1,25.21,cancelled
+1151,Nina Walker,nina.walker47@shopper.net,Australia,04/07/2026,Mechanical Keyboard,Electronics,10,87.23,delivered
+1444,Ryan Nguyen,ryan.nguyen32@shopper.net,Aus,03/26/2026,27in Monitor,Electronics,4,302.26,shipped
+1167,Ananya Kumar,ananya.kumar25@inbox.org,India,06/17/2026,Denim Jacket,Fashion,20,85.52,delivered
+1071,Samuel Williams,samuel.williams98@shopper.net,United Kingdom,05/22/2026,Throw Blanket,Home,-2,53.55,pending
+1075,Harper Jones,harper.jones59@inbox.org,United States,01/07/2026,Sunglasses,Fashion,3,,shipped
+1451,Noah Lewis,noah.lewis68@mail.com,United Kingdom,03/08/2026,Laptop Stand,Electronics,3,45.79,shipped
+1443,  Grace   Singh ,grace.singh12@example.com,United States,02/19/2026,Sunglasses,Fashion,2,61.32,pending
+1055,Noah Williams,noah.williams56@mail.com,United States,03/26/2026,USB-C Hub,Electronics,6,,delivered
+1057,Chloe Hall,chloe.hall42@example.com,Australia,05/02/2026,Dumbbell Set,Sports,8,104.43,delivered
+1140,Arjun Smith,arjun.smith67@mail.com,Australia,02/12/2026,Smart Watch,Electronics,2,1338.62,SHIPPED
+1396,Arjun Thomas,arjun.thomas38@example.com,United States,04/26/2026, Running Shoes  ,Sports,8,141.79,delivered
+1182,Emily Wilson,emily.wilson62@example.com,India,06/24/2026,Throw Blanket,Home,1,50.97,pending
+1271,Tara Lewis,tara.lewis14@example.com,New Zealand,06/13/2026,USB-C Hub,Electronics,10,43.23,shipped
+1031,emily williams,emily.williams60@example.com,Australia,02/05/2026,Throw Blanket,Home,20,58.05,cancelled
+1077,Ethan Wright,ethan.wright55@shopper.net,United States,04/24/2026,Ceramic Mug Set,Home,20,19.68,delivered
+1210,Kabir Lewis,kabir.lewis12@mail.com,United Kingdom,01/25/2026,27in Monitor,Electronics,-5,340.08,delivered
+1349,Ananya Thomas,ananya.thomas10@example.com,India,01/23/2026,Wireless Mouse,Electronics,1,25.30,delivered
+1331,Olivia Adams,olivia.adams10@mail.com,Australia,2026-05-20,Python Crash Course,Books,2,38.45,pending
+1287,Ava Singh,ava.singh58@example.com,United States,06/29/2026,Running Shoes,Sports,2,141.73,delivered
+1216,Meera Baker,meera.baker79@mail.com,Australia,02/01/2026,Sci-Fi Anthology,Books,20,18.12,shipped
+1097,Lucas Carter,lucas.carter41@shopper.net,United States,13/45/2026,Laptop Stand,Electronics,4,47.64,cancelled
+1081,VIKRAM GREEN,vikram.green37@example.com,Australia,04/19/2026,Air Purifier,Home,3,175.91,cancelled
+1164,Meera Wright,meera.wright74@mail.com,United Kingdom,01/12/2026,Sunglasses,Fashion,2,66.43,cancelled
+1478,Noah Jones,noah.jones70@inbox.org,United Kingdom,01/11/2026, Noise Cancelling Headphones  ,Electronics,6,271.88,shipped
+1028,Aanya Taylor,aanya.taylor16@inbox.org,United Kingdom,06/03/2026,Air Purifier,Home,12,,delivered
+1424,Chloe Nelson,CHLOE.NELSON53@INBOX.ORG,Australia,04/13/2026,Noise Cancelling Headphones,Electronics,12,260.16,delivered
+1307,Meera Brown,meera.brown9@inbox.org,AUSTRALIA ,03/03/2026,Air Purifier,Home,3,195.58,delivered
+1214,Tara Hall,TARA.HALL54@MAIL.COM,new zealand,03/12/2026,Wireless Mouse,Electronics,1,26.02,cancelled
+1394,Oscar Clark,oscar.clark24@mail.com,United States,06/07/2026,Tennis Racket,Sports,1,143.90,delivered
+1410,Meera King,meera.king69@mail.com,United States,04/13/2026,Noise Cancelling Headphones,Electronics,2,265.97,delivered
+1152,Tara Scott,tara.scott84@example.com,New Zealand,05/04/2026,Dumbbell Set,Sports,2,98.38,pending
+1132,Noah Adams,noah.adams25@example.com,United States,06/09/2026,Leather Wallet,Fashion,8,-48.71,delivered
+1222,Tara Martin,tara.martin87@inbox.org,Australia,04/12/2026,Data Science Handbook,Books,1,54.35,shipped
+1293,Ava Patel,ava.patel6@inbox.org, India,01/04/2026,Wireless Mouse,Electronics,1,25.40,delivered
+1160,Ryan Wilson,ryan.wilson40@mail.com,United States,03/26/2026,Air Purifier,Home,3,-194.56,pending
+1044,Leo Clark,leo.clark89@example.com,Australia,04/27/2026,Wireless Mouse,Electronics,4,23.40,shipped
+1363,Chloe Clark,chloe.clark43@inbox.org,United States,03/30/2026,Dumbbell Set,Sports,,104.85,shipped
+1061,Leo Hall,leo.hall13@example.com,Australia,05/05/2026,USB-C Hub,Electronics,1,40.20,Delivered
+1185,Sofia Jones,sofia.jones65@mail.com,United States,05/13/2026,Python Crash Course,Books,8,33.51,Delivered
+1497,Noah Brown,noah.brown80@mail.com,United Kingdom,02/05/2026,Denim Jacket,Fashion,2,81.80,shipped
+1205,Tara Martin,tara.martin56@shopper.net,India,01/30/2026,Leather Wallet,Fashion,1,42.93,delivered
+1419,Ryan Carter,ryan.carter2@shopper.net,India,04/03/2026,Throw Blanket,Home,2,54.61,shipped
+1415,Rohan Martin,rohan.martin87@mail.com,Australia,06/08/2026,Mechanical Keyboard,Electronics,10,97.67,unknown
+1209,Olivia Taylor,olivia.taylor31@example.com,United States,01/05/2026,Tennis Racket,Sports,3,170.90,DELIVERED
+1274,  Leo   Thomas ,leo.thomas42@mail.com,Australia,01/31/2026,Data Science Handbook,Books,3,52.12,shipped
+1482,Noah Singh,noah.singh73@inbox.org,United States,02/12/2026,USB-C Hub,Electronics,12,40.99,pending
+1452,Jack Adams,jack.adams92@shopper.net,,05/14/2026,Sci-Fi Anthology,Books,2,19.91,pending
+1263,Isla Hall,isla.hall47@example.com,United States,01/17/2026,Running Shoes,Sports,5,141.56,shipped
+1229,Emily Lewis,emily.lewis23@shopper.net,New Zealand,01/10/2026,Laptop Stand,Electronics,1,46.24,delivered
+1350,Ryan Green,ryan.green92@shopper.net,India,04/17/2026,Wool Scarf,Fashion,10,28.21,delivered
+1471, Harper White  ,harper.white62@inbox.org,Australia,02/09/2026,Python Crash Course,Books,2,32.55,shipped
+1158,Kabir King,kabir.king45@shopper.net,u.k.,02/01/2026,Dumbbell Set,Sports,2,108.74,cancelled
+1163,Emily Brown,emily.brown29@inbox.org,australia,06/14/2026,Desk Lamp,Home,20,33.12,delivered
+1165,Ryan Martin,ryan.martin68@shopper.net,India,03/14/2026,Air Purifier,Home,20,170.98,shipped
+1487,Kabir Wilson,kabir.wilson98@inbox.org,United Kingdom,01/26/2026,Denim Jacket,Fashion,1,86.34,delivered
+1143,Grace Clark,grace.clark17@mail.com,India,01/30/2026,Data Science Handbook,Books,2,47.52,delivered
+1015,Chloe Allen,chloe.allen45example.com,United Kingdom,02/24/2026,Python Crash Course,Books,5,34.16,pending
+1260,EMILY ANDERSON,emily.anderson31@shopper.net,United States,04/02/2026,USB-C Hub,Electronics,4,37.43,shipped
+1221,noah  ADAMS,NOAH.ADAMS61@MAIL.COM,Australia,01/29/2026,Leather Wallet,Fashion,2,40.82,shipped
+1251,Isla King,isla.king37example.com,United States,02/05/2026,27in Monitor,Electronics,3,308.53,delivered
+1167,ananya  KUMAR,ananya.kumar25@inbox.org, India,06/17/2026,Denim Jacket,Fashion,20,85.52,DELIVERED
+1381,Vikram Thomas,vikram.thomas86@mail.com,usa,04/05/2026,Leather Wallet,Fashion,2,47.01,pending
+1414,Jack Wright,,Australia,03/29/2026,Dumbbell Set,Sports,3,93.83,cancelled
+1368,Arjun Williams,arjun.williams34@shopper.net,Australia,06/03/2026,Smart Watch,Electronics,4,1180.76,delivered
+1068,Arjun Nguyen,arjun.nguyen54@shopper.net, united kingdom,01/16/2026,USB-C Hub,Electronics,10,39.54,shipped
+1155,Rohan Thomas,rohan.thomas13@inbox.org,United States,04/25/2026,Denim Jacket,Fashion,,73.51,shipped
+1378,Jack Walker,jack.walker29@inbox.org,United Kingdom,06/21/2026,Tennis Racket,Sports,4,163.50,delivered
+1382,Arjun Martin,arjun.martin91@inbox.org,United States,06/28/2026,Noise Cancelling Headphones,Electronics,2,242.69,pending
+1086,Aanya Singh,AANYA.SINGH63@EXAMPLE.COM,Australia,02/05/2026,Wool Scarf,Fashion,3,25.00,delivered
+1199,Samuel Wilson,,United Kingdom,03/25/2026,Laptop Stand,Electronics,2,45.61,shipped
+1256,mia walker,mia.walker9@example.com,United Kingdom,03/20/2026,Throw Blanket,Home,8,48.98,shipped
+1347,Ethan Kumar,ethan.kumar53@example.com,United States,03/10/2026,Tennis Racket,Sports,2,167.65,delivered
+1353,Olivia Williams,olivia.williams29@example.com,United Kingdom,05/09/2026,Desk Lamp,Home,2,35.02,shipped
+1072,Jack Singh,,United Kingdom,02/16/2026,Sunglasses,Fashion,5,62.42,cancelled
+1201,Harper Jones,harper.jones56@shopper.net,India,02/16/2026,Denim Jacket,Fashion,20,83.04,delivered
+1460,Olivia Williams,olivia.williams50@example.com,United states,06/18/2026,Mechanical Keyboard,Electronics,1,84.40,delivered
+1084,aanya  ADAMS,aanya.adams20@inbox.org,New Zealand,04/28/2026,Smart Watch,Electronics,1,1313.54,shipped
+1288,Daniel Anderson,daniel.anderson38@shopper.net,India,02/10/2026,Sunglasses,Fashion,2,61.15,shipped
+1425,Nina Baker,nina.baker70@shopper.net,United Kingdom,04/06/2026,Data Science Handbook,Books,8,51.73,pending
+1144,Jack King,jack.king83@mail.com,India,01/06/2026,Desk Lamp,Home,8,31.18,shipped
+1341,Vikram Carter,vikram.carter46@mail.com,nz,03/29/2026,Dumbbell Set,Sports,12,106.38,pending
+1450,Harper Taylor,harper.taylor55@example.com,Australia,01/22/2026,Tennis Racket,Sports,6,174.88,pending
+1422,Kabir Patel,kabir.patel10@shopper.net,Australia,02/24/2026,Data Science Handbook,Books,10,52.06,shipped
+1197,Chloe Nguyen,chloe.nguyen32@inbox.org,India,01/19/2026,Running Shoes,Sports,1,121.08,shipped
+1318,Arjun Carter,arjun.carter5@example.com,United States,01/02/2026,Laptop Stand,Electronics,12,45.04,delivered
+1254,Mia Anderson,mia.anderson20@inbox.org,new zealand,04/08/2026,Python Crash Course,Books,10,33.52,shipped
+1014,Noah Nguyen,noah.nguyen69@mail.com,Australia,2026-06-13,Mechanical Keyboard,Electronics,3,92.96,shipped
+1166,Sofia Williams,sofia.williams33@mail.com,United States,05/08/2026,Sunglasses,Fashion,,69.60,delivered
+1475,Mia Nguyen,mia.nguyen66@inbox.org,Australia,05/18/2026,Laptop Stand,Electronics,12,47.53,delivered
+1400,Daniel Scott,daniel.scott50@example.com,United States,06/19/2026,Desk Lamp,Home,20,34.65,cancelled
+1361,Lucas Williams,lucas.williams7@inbox.org,United Kingdom,02/22/2026,Tennis Racket,Sports,1,166.25,delivered
+1495,Noah Young,noah.young79@shopper.net,United kingdom,01/27/2026,Smart Watch,Electronics,2,1322.44,pending
+1004,Ananya Brown,ananya.brown7@inbox.org,india ,05/03/2026,Dumbbell Set,Sports,8,96.12,shipped
+1188,Zara Brown,zara.brown64@shopper.net,Australia,03/07/2026,Desk Lamp,Home,1,32.41,SHIPPED
+1206,Chloe Singh,chloe.singh79@inbox.org,Australia,06/18/2026,Smart Watch,Electronics,4,1419.44,delivered
+1207,Jack Martin,jack.martin11@shopper.net,United States,03/29/2026,USB-C Hub,Electronics,5,41.96,delivered
+1320,Zara Green,zara.green91@inbox.org,Australia,05/08/2026,Throw Blanket,Home,2,54.33,pending
+1070,Sofia Smith,sofia.smith22@inbox.org,U.K.,03/16/2026,Yoga Mat,Sports,1,26.35,pending
+1308, Chloe Brown  ,chloe.brown3@inbox.org,United States,02/27/2026,Desk Lamp,Home,10,30.94,shipped
+1087,Vikram White,vikram.white9inbox.org,United Kingdom,06/02/2026,Wireless Mouse,Electronics,4,23.71,delivered
+1440,Ananya Clark,ananya.clark46@shopper.net,U.S.,02/06/2026,Dumbbell Set,Sports,8,107.70,delivered
+1412,Sofia Taylor,sofia.taylor31@shopper.net,U.S.,01/23/2026,Throw Blanket,Home,3,53.70,delivered
+1168,Tara Carter,tara.carter11@mail.com,United States,05/07/2026,Dumbbell Set,Sports,2,104.20,delivered
+1193,Ananya Baker,ananya.baker93@inbox.org,Australia,01/20/2026,Wireless Mouse,Electronics,3,22.99,pending
+1135,Kabir Sharma,kabir.sharma97@inbox.org,India,05/11/2026,Noise Cancelling Headphones,Electronics,5,,shipped
+1426,Nina Lewis,nina.lewis59inbox.org,United States,01/17/2026,Desk Lamp,Home,6,29.26,delivered
+1036,Priya Brown,priya.brown72@example.com,United States,01/02/2026,Yoga Mat,Sports,20,26.71,delivered
+1462,Chloe Nguyen,chloe.nguyen75@example.com,India,04/26/2026,Noise Cancelling Headphones,Electronics,4,272.87,shipped
+1241,Sofia Carter,sofia.carter61@inbox.org,India,06/14/2026,Python Crash Course,Books,0,37.72,pending
+1141,Lucas King,lucas.king87@example.com,New Zealand,06/28/2026,Desk Lamp,Home,2,34.57,pending
+1408,Zara Kumar,zara.kumar1@shopper.net,India,2026-01-13,Dumbbell Set,Sports,20,104.92,shipped
+1039,Zara Anderson,zara.anderson38@example.com,India,04/28/2026,USB-C Hub,Electronics,2,38.91,shipped
+1051,Chloe Hall,chloe.hall80@inbox.org,Aus,04/25/2026,Noise Cancelling Headphones,Electronics,1,250.63,shipped
+1047,Sofia Hall,sofia.hall78@inbox.org,United States,04/08/2026,Yoga Mat,Sports,20,26.88,delivered
+1136,Rohan Kumar,rohan.kumar39@mail.com,United Kingdom,04/15/2026,Yoga Mat,Sports,20,29.47,on hold
+1149,Isla Nguyen,isla.nguyen13@example.com,,03/29/2026,Ceramic Mug Set,Home,1,21.75,delivered
+1088,daniel  WRIGHT,daniel.wright72@mail.com,United States,06/09/2026,Dumbbell Set,Sports,2,90.25,delivered
+1013, Liam Clark  ,liam.clark78@mail.com,India,03/15/2026,Data Science Handbook,Books,2,51.63,pending
+1076,Chloe Smith,chloe.smith59@shopper.net,United Kingdom,04/17/2026,Sci-Fi Anthology,Books,5,18.74,shipped
+1066,Arjun Brown,arjun.brown98@inbox.org,Australia,02/22/2026,Mechanical Keyboard,Electronics,10,90.89,pending
+1270,Ryan Nguyen,ryan.nguyen31@example.com, India,06/01/2026,Air Purifier,Home,10,194.31,shipped
+1291,Grace Wilson,grace.wilson13@shopper.net,United States,2026-06-03,Data Science Handbook,Books,1,46.88,delivered
+1262,Ryan Kumar,ryan.kumar1@shopper.net,New Zealand,01/29/2026,Denim Jacket,Fashion,,86.28,shipped
+1311,Meera Harris,,United States,04/22/2026,Laptop Stand,Electronics,2,40.79,pending
+1054,Jack Carter,jack.carter9@mail.com,United States,01/10/2026,Denim Jacket,Fashion,1,,delivered
+1162,Lucas Brown,lucas.brown75@example.com,United Kingdom,02/01/2026,Denim Jacket,Fashion,1,84.70,shipped
+1292,  Mia   Carter ,mia.carter97@mail.com,Australia,02/16/2026,Sci-Fi Anthology,Books,5,16.73,shipped
+1445,Grace Sharma,grace.sharma94@shopper.net,Australia,01/23/2026,Python Crash Course,Books,12,32.25,delivered
+1272,Lucas Taylor,lucas.taylor19@example.com,Australia,01/12/2026,Noise Cancelling Headphones,Electronics,,228.58,pending
+1019,Chloe Young,chloe.young43@example.com,United Kingdom,04/16/2026,Running Shoes,Sports,5,,shipped
+1369,Harper Kumar,harper.kumar2@example.com,Australia,06/29/2026,Sci-Fi Anthology,Books,-1,18.85,pending
+1065,Kabir Brown,kabir.brown77@example.com,United Kingdom,2026-06-14,Leather Wallet,Fashion,12,42.28,pending
+1393,Sofia Wilson,sofia.wilson30@example.com,United Kingdom,04/01/2026,Sunglasses,Fashion,8,65.56,shipped
+1192,Harper Kumar,harper.kumar52@mail.com,Australia,06/18/2026,Ceramic Mug Set,Home,5,18.18,shipped
+1267,Harper Martin,harper.martin94@mail.com,Australia,05/16/2026,Air Purifier,Home,3,172.02,delivered
+1022,Priya Anderson,priya.anderson7@example.com,United States,05/02/2026,Python Crash Course,Books,3,36.97,cancelled
+1257,Rohan Adams,rohan.adams85@example.com,Australia,02/11/2026,Yoga Mat,Sports,10,31.02,shipped
+1453,Nina Singh,nina.singh2@inbox.org,India,02/10/2026,Running Shoes,Sports,20,,shipped
+1466,Emily Nguyen,emily.nguyen42@example.com,Australia,06/03/2026,Sci-Fi Anthology,Books,10,17.81,delivered
+1309,Ananya Nelson,ananya.nelson65@mail.com,United States,06/10/2026,Laptop Stand,Electronics,,41.54,shipped
+1111,Chloe Williams,chloe.williams56@mail.com,New Zealand,04/29/2026,27in Monitor,Electronics,8,302.80,shipped
+1378,jack walker,jack.walker29@inbox.org,U.K.,06/21/2026,Tennis Racket,Sports,4,163.50,DELIVERED
+1317,Ryan Wilson,ryan.wilson48@mail.com,Australia,03/27/2026,Wireless Mouse,Electronics,2,27.38,cancelled
+1102,Isla Adams,isla.adams45@mail.com,Australia,04/10/2026,Desk Lamp,Home,12,32.58,shipped
+1398,  Nina   Taylor ,nina.taylor72@example.com,Aus,04/19/2026,Leather Wallet,Fashion,3,41.19,shipped
+1122,Isla Brown,isla.brown12@shopper.net,Australia,04/04/2026,Ceramic Mug Set,Home,3,21.14,shipped
+1116,Lucas Clark,LUCAS.CLARK53@MAIL.COM,Australia,04/19/2026,Denim Jacket,Fashion,2,84.39,delivered
+1231,Kabir Hall,kabir.hall85@mail.com,United Kingdom,03/04/2026,Noise Cancelling Headphones,Electronics,8,255.53,cancelled
+1433,Samuel Williams,samuel.williams17@example.com,u.k.,06/08/2026,Wool Scarf,Fashion,3,25.00,pending
+1232,Ava Young,ava.young63@inbox.org,United States,01/09/2026,Throw Blanket,Home,8,53.19,Delivered
+1211,Oscar Harris,oscar.harris22@shopper.net,AU,02/04/2026,Sunglasses,Fashion,1,60.32,cancelled
+1150,Aanya Nelson,aanya.nelson87@example.com,Australia,01/29/2026,Noise Cancelling Headphones,Electronics,,236.71,shipped
+1119,Ananya Sharma,ananya.sharma11@mail.com,United States,02/13/2026,27in Monitor,Electronics,2,336.91,delivered
+1083,Nina Hall,nina.hall2@inbox.org,AU,04/06/2026,Ceramic Mug Set,Home,6,18.79,delivered
+1236,Isla Scott,isla.scott25@mail.com,AUSTRALIA ,05/08/2026,27in Monitor,Electronics,4,314.09,delivered
+1148,Oscar Sharma,oscar.sharma28@mail.com,United States,03/13/2026,Denim Jacket,Fashion,4,79.28,shipped
+1123,Ananya Smith,ananya.smith3mail.com,Australia,01/04/2026,Leather Wallet,Fashion,5,43.62,delivered
+1217,Samuel Williams,samuel.williams29@example.com,India,01/18/2026,Data Science Handbook,Books,1,54.63,delivered
+1090,Jack Martin,jack.martin84@shopper.net,Australia,01/04/2026,Ceramic Mug Set,Home,2,19.95,cancelled
+1328,Rohan Carter,rohan.carter33@example.com,australia,02/10/2026,Ceramic Mug Set,Home,2,19.26,DELIVERED
+1060,SAMUEL BROWN,samuel.brown1@shopper.net,New Zealand,03/18/2026,Throw Blanket,Home,1,59.26,delivered
+1302,Tara Wright,tara.wright6@shopper.net,United Kingdom,2026-03-29,Mechanical Keyboard,Electronics,3,95.23,delivered
+1315,Samuel Wright,samuel.wright63@inbox.org,Australia,06/27/2026,Data Science Handbook,Books,2,,delivered
+1007,Meera Allen,meera.allen44@shopper.net,Australia,05/07/2026,Sunglasses,Fashion,8,69.32,delivered
+1195,  Mia   Anderson ,mia.anderson33@example.com,India,04/15/2026,Mechanical Keyboard,Electronics,12,96.99,cancelled
+1177,Oscar Anderson,oscar.anderson32@shopper.net,United States,05/26/2026,Throw Blanket,Home,,56.69,pending
+1314,Grace Smith,grace.smith33@example.com,United Kingdom,02/14/2026, Denim Jacket  ,Fashion,8,85.99,shipped
+1374,Olivia Adams,olivia.adams6@shopper.net,United Kingdom,2026-02-17,Tennis Racket,Sports,8,145.28,delivered
+1422, Kabir Patel  ,kabir.patel10@shopper.net,Aus,02/24/2026,Data Science Handbook,Books,10,52.06,SHIPPED
+1170,Ananya Lewis,ananya.lewis4@mail.com,India,2026-01-25,27in Monitor,Electronics,10,296.59,pending
+1192,HARPER KUMAR,harper.kumar52@mail.com,australia,06/18/2026,Ceramic Mug Set,Home,5,18.18,SHIPPED
+1379,Samuel Nguyen,samuel.nguyen28@inbox.org,United Kingdom,06/08/2026,USB-C Hub,Electronics,2,39.72,delivered
+1213,Leo Hall,leo.hall43@mail.com,United states,01/07/2026,Ceramic Mug Set,Home,2,19.67,cancelled
+1364,Tara Lewis,tara.lewis29@mail.com,india ,01/21/2026,Leather Wallet,Fashion,5,40.97,delivered
+1345,CHLOE BROWN,chloe.brown32@inbox.org,AU,04/08/2026,Leather Wallet,Fashion,10,43.82,shipped
+1461,Sofia Wright,sofia.wright82@inbox.org,United States,04/10/2026,Sunglasses,Fashion,1,62.52,delivered
+1300,Grace Brown,grace.brown44@example.com,New Zealand,04/07/2026,Leather Wallet,Fashion,,48.83,cancelled
+1464,Olivia Singh,olivia.singh49@inbox.org,United Kingdom,04/06/2026,Desk Lamp,Home,2,34.49,delivered
+1297,Emily Jones,emily.jones5@mail.com,Australia,05/09/2026,Dumbbell Set,Sports,2,96.07,delivered
+1107,Ryan Clark,ryan.clark29@mail.com,Australia,02/12/2026,Smart Watch,Electronics,12,1402.14,delivered
+1298,Kabir Singh,kabir.singh52@inbox.org,United Kingdom,01/09/2026,Yoga Mat,Sports,1,30.60,delivered
+1238,Kabir Taylor,kabir.taylor18@example.com,United States,03/04/2026,Laptop Stand,Electronics,2,43.75,shipped
+1059,Meera Thomas,meera.thomas38@example.com,New Zealand,04/11/2026,Dumbbell Set,Sports,2,103.55,delivered
+1259,Tara Thomas,tara.thomas87@inbox.org,India,00/12/2026,Mechanical Keyboard,Electronics,1,89.49,shipped
+1481,Daniel Brown,daniel.brown33@inbox.org,Australia,03/24/2026,Sunglasses,Fashion,6,62.81,delivered
+1268,Harper King,harper.king55@shopper.net,India,05/25/2026,Wool Scarf,Fashion,2,,shipped
+1437,Emily Allen,emily.allen64@mail.com,United States,02/18/2026,Ceramic Mug Set,Home,5,20.55,delivered
+1129,Ryan Martin,,India,04/13/2026,Dumbbell Set,Sports,6,103.47,shipped
+1161,Ananya Smith,ananya.smith67@shopper.net,Australia,04/30/2026,Ceramic Mug Set,Home,12,20.57,shipped
+1362,Arjun Young,arjun.young30@example.com,Australia,04/09/2026,Leather Wallet,Fashion,10,41.30,shipped
+1480,Vikram Sharma,vikram.sharma15@example.com,United Kingdom,05/27/2026,Air Purifier,Home,,194.01,shipped
+1120,Jack White,jack.white53@shopper.net,Australia,06/12/2026,Wireless Mouse,Electronics,,26.76,delivered
+1383,mia  KUMAR,mia.kumar81@inbox.org,INDIA,05/20/2026,Wireless Mouse,Electronics,4,24.41,delivered
+1343,Lucas Williams,lucas.williams89@mail.com,AUSTRALIA ,05/08/2026,Sci-Fi Anthology,Books,4,17.59,delivered
+1255,Sofia Taylor,sofia.taylor26@example.com,United States,06/20/2026,USB-C Hub,Electronics,12,36.62,delivered
+1098,Ananya Thomas,ananya.thomas6@mail.com,Australia,03/08/2026,Leather Wallet,Fashion,1,40.83,delivered
+1021,Samuel Williams,samuel.williams92@mail.com,usa,03/04/2026,Desk Lamp,Home,2,32.52,cancelled
+1027,Mia Nelson,mia.nelson29@inbox.org,new zealand,02/16/2026,Yoga Mat,Sports,1,29.09,pending
+1479,Vikram Hall,vikram.hall19@mail.com,Australia,02/24/2026,Air Purifier,Home,2,205.55,delivered
+1326,Ryan Thomas,ryan.thomas8@inbox.org,Australia,02/16/2026,Yoga Mat,Sports,1,26.18,pending
+1498,Chloe Singh,chloe.singh37@example.com,,01/03/2026,USB-C Hub,Electronics,1,39.64,cancelled
+1449,Ryan Clark,ryan.clark67@mail.com,Australia,01/29/2026,27in Monitor,Electronics,2,326.12,pending
+1492,Noah Singh,noah.singh22@shopper.net,United States,02/16/2026,Sci-Fi Anthology,Books,4,19.24,pending
+1233,Ryan Jones,ryan.jones74@mail.com,United Kingdom,02/05/2026,Yoga Mat,Sports,1,26.86,delivered
+1194,Sofia Williams,sofia.williams11@inbox.org,United States,01/26/2026,Leather Wallet,Fashion,20,47.29,pending
+1286,  Nina   Brown ,nina.brown36@inbox.org,Australia,05/12/2026,Dumbbell Set,Sports,2,105.92,shipped
+1359,Liam Williams,liam.williams57@inbox.org,United States,04/16/2026,USB-C Hub,Electronics,2,,pending
+1281,,vikram.adams49@shopper.net,United Kingdom,04/19/2026,Sunglasses,Fashion,1,65.37,delivered
+1277,Daniel Adams,daniel.adams30@example.com,USA,02/22/2026,USB-C Hub,Electronics,2,40.04,delivered
+1189,Jack Baker,jack.baker64@inbox.org,United States,06/11/2026,Denim Jacket,Fashion,10,73.82,cancelled
+1387,Samuel Hall,samuel.hall46@inbox.org,Australia,01/22/2026,Wool Scarf,Fashion,6,27.06,delivered
+1094,Vikram Walker,vikram.walker8@example.com,United Kingdom,05/27/2026,Denim Jacket,Fashion,3,84.80,delivered
+1248,Ethan Kumar,ethan.kumar1@mail.com,United States,05/07/2026,Smart Watch,Electronics,2,1237.84,DELIVERED
+1440,Ananya Clark,ananya.clark46@shopper.net,U.S.,02/06/2026,Dumbbell Set,Sports,8,107.70,delivered
+1329,  Jack   Carter ,jack.carter92@inbox.org,Aus,04/07/2026,Ceramic Mug Set,Home,1,19.97,delivered
+1358,Nina Nelson,nina.nelson74@example.com,Australia,03/13/2026,Mechanical Keyboard,Electronics,20,,shipped
+1202,Nina Nguyen,nina.nguyen66@inbox.org,United States,01/19/2026,Running Shoes,Sports,12,117.46,delivered
+1348,Oscar Nguyen,oscar.nguyen35@example.com,United States,06/29/2026,Sunglasses,Fashion,6,68.82,Cancelled
+1327,Emily Singh,emily.singh28@mail.com,Australia,02/20/2026,Ceramic Mug Set,Home,12,18.09,shipped
+1269,Grace Sharma,grace.sharma95@example.com,United Kingdom,04/26/2026,Ceramic Mug Set,Home,12,20.79,delivered
+1025,Liam Taylor,liam.taylor66@inbox.org,Australia,05/20/2026,Laptop Stand,Electronics,5,47.04,shipped
+1049,Sofia Jones,sofia.jones37@shopper.net,United States,03/01/2026,Ceramic Mug Set,Home,1,19.42,shipped
+1058,Leo Hall,leo.hall53@mail.com,Australia,06/23/2026,Laptop Stand,Electronics,1,43.78,cancelled
+1105,Chloe Adams,chloe.adams50@example.com,Australia,03/08/2026,Noise Cancelling Headphones,Electronics,2,,pending
+1435,Ava Allen,ava.allen6@inbox.org,United Kingdom,06/27/2026,Yoga Mat,Sports,1,31.64,shipped
+1215,Emily Green,emily.green12@example.com,Australia,06/01/2026,Sunglasses,Fashion,6,59.28,cancelled
+1299,Sofia Walker,sofia.walker25@inbox.org,United States,02/10/2026, Tennis Racket  ,Sports,1,144.45,shipped
+1124,Vikram Wilson,vikram.wilson13@inbox.org,United States,02/12/2026,Dumbbell Set,Sports,1,95.38,pending
+1324,Liam Allen,liam.allen30@inbox.org,New Zealand,02/10/2026,Dumbbell Set,Sports,5,91.69,delivered
+1409,Ethan Scott,ethan.scott74@inbox.org,United States,06/17/2026,Throw Blanket,Home,3,53.49,pending
+1067,Ava Scott,ava.scott92@inbox.org,India,05/07/2026,Smart Watch,Electronics,3,1369.69,shipped
+1438,Arjun Martin,arjun.martin76@example.com,Aus,03/09/2026,Air Purifier,Home,4,186.67,shipped
+1220,Kabir Taylor,,Australia,04/13/2026,Ceramic Mug Set,Home,8,19.52,shipped
+1108,Nina Carter,nina.carter62@shopper.net,Australia,06/04/2026,Dumbbell Set,Sports,2,100.80,shipped
+1225,Chloe Jones,chloe.jones44@inbox.org,India,03/10/2026,Throw Blanket,Home,1,58.81,shipped
+1131,Samuel Baker,samuel.baker40@mail.com,New Zealand,01/28/2026,Running Shoes,Sports,2,133.71,shipped
+1483,Ava Patel,ava.patel72@shopper.net,Australia,06/02/2026,Desk Lamp,Home,1,33.67,shipped
+1237,Aanya Smith,aanya.smith48@shopper.net,India,05/16/2026,Air Purifier,Home,2,199.67,delivered
+1005,Isla White,isla.white5@shopper.net,United Kingdom,05/04/2026,Python Crash Course,Books,2,32.57,SHIPPED
+1147,Emily Kumar,emily.kumar53@mail.com,Australia,02/14/2026,Data Science Handbook,Books,,47.47,delivered
+1407,Rohan Williams,rohan.williams71@inbox.org,India,04/15/2026,Tennis Racket,Sports,2,167.27,Delivered
+1159,Vikram Kumar,vikram.kumar74@inbox.org,United Kingdom,04/12/2026,Dumbbell Set,Sports,4,97.08,cancelled
+1227,Nina Williams,nina.williams93@inbox.org,United States,01/20/2026,Tennis Racket,Sports,3,149.08,delivered
+1113,Tara Thomas,TARA.THOMAS52@EXAMPLE.COM,AU,01/10/2026,Laptop Stand,Electronics,5,43.31,pending
+1089,Lucas White,lucas.white77@mail.com,New Zealand,04/02/2026,Data Science Handbook,Books,2,53.51,delivered
+1223,Nina Patel,nina.patel20mail.com,United States,06/15/2026,27in Monitor,Electronics,5,333.51,shipped
+1134,Jack Wright,jack.wright86@inbox.org,Australia,01/01/2026,Wool Scarf,Fashion,2,29.51,delivered
+1212,Olivia Williams,olivia.williams42@inbox.org,Australia,04/16/2026,Throw Blanket,Home,5,57.34,delivered
+1493,Meera Brown,meera.brown93@mail.com,New Zealand,06/17/2026,Sci-Fi Anthology,Books,8,19.47,cancelled
+1491,Tara Smith,tara.smith72@example.com,Australia,2026-01-26,Sunglasses,Fashion,2,69.73,pending
+1218,,vikram.nguyen36@inbox.org,Australia,06/17/2026,Smart Watch,Electronics,8,1387.89,delivered
+1203,  Tara   Sharma ,tara.sharma4@inbox.org,Australia,04/12/2026,Yoga Mat,Sports,2,30.05,delivered
+1057,Chloe Hall,chloe.hall42@example.com,Australia,05/02/2026,Dumbbell Set,Sports,8,104.43,delivered
+1154,Mia Harris,mia.harris75@example.com,New Zealand,02/20/2026,Air Purifier,Home,2,194.25,pending
+1069,Ananya King,ananya.king20@example.com,New Zealand,05/09/2026,Mechanical Keyboard,Electronics,8,84.92,pending
+1035,Liam White,liam.white66@shopper.net,New Zealand,02/21/2026,Data Science Handbook,Books,3,54.55,DELIVERED
+1052,Emily Lewis,emily.lewis91@example.com,United Kingdom,04/26/2026,Tennis Racket,Sports,,170.47,delivered
+1034,  Ananya   Smith ,ananya.smith43@example.com,New Zealand,01/15/2026,Dumbbell Set,Sports,2,91.69,shipped
+1139,Chloe Jones,chloe.jones19@example.com,Australia,03/26/2026,Smart Watch,Electronics,1,1304.72,delivered
+1397,Rohan Clark,rohan.clark62@inbox.org,Australia,06/05/2026,27in Monitor,Electronics,1,341.94,pending
+1172,Aanya Anderson,aanya.anderson29@inbox.org,Australia,06/19/2026,Yoga Mat,Sports,1,31.51,delivered
+1303,Ryan Brown,ryan.brown74@shopper.net,India,05/13/2026,Running Shoes,Sports,3,118.04,Delivered
+1370,Noah Martin,NOAH.MARTIN22@INBOX.ORG,india ,03/26/2026,Sci-Fi Anthology,Books,12,18.86,Delivered
+1175,Priya Harris,priya.harris10@example.com,Australia,06/26/2026,USB-C Hub,Electronics,2,41.30,shipped
+1033,Tara Nguyen,tara.nguyen51@inbox.org,Australia,04/16/2026,Desk Lamp,Home,10,33.24,delivered
+1196,,noah.wilson29@inbox.org,United States,05/26/2026,Python Crash Course,Books,2,34.95,delivered
+1388,Mia Kumar,mia.kumar91@shopper.net,Australia,03/05/2026,27in Monitor,Electronics,1,311.02,delivered
+1296,Daniel Williams,daniel.williams87@mail.com,Australia,06/16/2026,Yoga Mat,Sports,3,31.63,shipped
+1242,Kabir Young,kabir.young47@mail.com,usa,03/23/2026,Wireless Mouse,Electronics,4,24.88,delivered
+1261,Ananya Wright,ananya.wright91@inbox.org,United Kingdom,05/14/2026,Smart Watch,Electronics,2,1233.20,shipped
+1079,Ryan Green,ryan.green49@example.com,India,2026-01-14,Throw Blanket,Home,10,49.85,shipped
+1356,Ryan Taylor,ryan.taylor62@inbox.org,Australia,2026-03-12,Yoga Mat,Sports,2,31.31,shipped
+1355,Lucas King,lucas.king47@inbox.org,Australia,03/20/2026,Noise Cancelling Headphones,Electronics,8,248.31,shipped
+1340,Leo Singh,leo.singh34@shopper.net,United States,03/27/2026,Ceramic Mug Set,Home,1,20.30,pending
+1190,chloe  WHITE,chloe.white47@shopper.net,Australia,02/24/2026,Mechanical Keyboard,Electronics,6,83.93,shipped
+1290,Lucas Smith,lucas.smith57@shopper.net,United States,05/03/2026,Sci-Fi Anthology,Books,8,18.52,shipped
+1457,Liam Singh,liam.singh54@inbox.org,United states,02/21/2026, Sunglasses  ,Fashion,20,62.67,delivered
+1325,Grace Young,grace.young99@shopper.net,United States,01/30/2026,Tennis Racket,Sports,10,153.96,shipped
+1228,Ryan Nelson,ryan.nelson10@mail.com,United States,06/16/2026,Air Purifier,Home,,207.70,pending
+1432,tara  WALKER,tara.walker61@example.com,AU,04/26/2026,Mechanical Keyboard,Electronics,2,90.71,delivered
+1208,Tara Adams,tara.adams13@mail.com,Australia,06/09/2026,Air Purifier,Home,8,184.09,delivered
+1095,Oscar Hall,oscar.hall97@example.com,United Kingdom,02/22/2026,Air Purifier,Home,,207.32,shipped
+1106,Mia Wilson,mia.wilson88@mail.com,United States,06/10/2026,Air Purifier,Home,20,194.09,delivered
+1006,Tara Adams,tara.adams79@example.com,AUSTRALIA ,05/05/2026,Throw Blanket,Home,3,53.67,shipped
+1101,Emily Anderson,emily.anderson89@mail.com, India,02/13/2026,Tennis Racket,Sports,3,164.46,delivered
+1018,Nina Young,nina.young81@shopper.net,Australia,03/25/2026,Noise Cancelling Headphones,Electronics,10,239.34,delivered
+1121,Zara Singh,zara.singh91@inbox.org,new zealand,04/20/2026,Laptop Stand,Electronics,1,44.59,delivered
+1008,Ananya Green,ananya.green24@shopper.net,Australia,2026-05-31,Throw Blanket,Home,1,51.71,pending
+1037,Noah Adams,noah.adams80@shopper.net,Australia,05/23/2026,Dumbbell Set,Sports,5,98.35,delivered
+1062,Kabir Anderson,kabir.anderson32@mail.com,Australia,04/04/2026,Desk Lamp,Home,,31.73,delivered
+1250,Jack Baker,jack.baker89@shopper.net,India,05/19/2026,Wireless Mouse,Electronics,1,23.53,shipped
+1176,Kabir Jones,kabir.jones76@mail.com,,05/04/2026,Mechanical Keyboard,Electronics,10,92.07,delivered
+1446,Tara Hall,tara.hall73@example.com,New Zealand,03/15/2026,Yoga Mat,Sports,2,31.82,Delivered
+1186,Meera Martin,,United Kingdom,03/09/2026,Tennis Racket,Sports,3,143.95,shipped
+1402,Aanya Scott,aanya.scott6@mail.com,India,06/16/2026,Laptop Stand,Electronics,10,46.49,Delivered
+1024,Kabir Kumar,kabir.kumar54@example.com,United States,02/27/2026,Leather Wallet,Fashion,1,48.57,delivered
+1417,Meera Young,meera.young47@mail.com,Australia,02/11/2026,Wireless Mouse,Electronics,4,26.95,cancelled
+1337,Nina Harris,nina.harris17@mail.com,Australia,04/16/2026,Sci-Fi Anthology,Books,1,19.68,pending
+1275,Grace Wright,grace.wright26@inbox.org,INDIA,02/14/2026,Denim Jacket,Fashion,6,73.53,delivered
+1096,Emily Sharma,emily.sharma51@inbox.org,United States,06/08/2026,USB-C Hub,Electronics,20,35.87,delivered
+1092,Nina Anderson,nina.anderson57@example.com,Australia,01/31/2026,Desk Lamp,Home,6,32.63,delivered
+1204,Emily Singh,emily.singh45@example.com,India,06/19/2026,Python Crash Course,Books,2,34.75,delivered
+1371,Mia Singh,mia.singh56@inbox.org,New Zealand,03/01/2026,Data Science Handbook,Books,4,47.96,cancelled
+1346,Arjun Clark,arjun.clark19@example.com,,02/25/2026,Laptop Stand,Electronics,5,43.97,shipped
+1221,noah  ADAMS,NOAH.ADAMS61@MAIL.COM,Australia,01/29/2026,Leather Wallet,Fashion,2,40.82,shipped
+1020,Olivia Wright,olivia.wright19@mail.com,Australia,05/03/2026,Wireless Mouse,Electronics,1,24.96,delivered
+1157,Ryan Kumar,ryan.kumar18@inbox.org,Australia,06/03/2026,Sci-Fi Anthology,Books,20,19.16,delivered
+1153, Nina Kumar  ,nina.kumar79@example.com,India,05/16/2026,Mechanical Keyboard,Electronics,10,91.18,cancelled
+1366,Lucas King,lucas.king5@example.com,India,02/08/2026,Laptop Stand,Electronics,5,43.79,pending
+1306,Rohan Wright,rohan.wright48@inbox.org,Australia,01/18/2026,Laptop Stand,Electronics,6,46.07,cancelled
+1436,Kabir Scott,,United States,04/09/2026,Denim Jacket,Fashion,3,82.73,delivered
+1023,Aanya Lewis,aanya.lewis47@inbox.org,United States,03/02/2026,Data Science Handbook,Books,10,,pending
+1074,Aanya Smith,aanya.smith78@shopper.net,United Kingdom,06/25/2026,Desk Lamp,Home,3,31.54,Shipped
+1459,ava  YOUNG,ava.young71@example.com,Australia,04/22/2026,Noise Cancelling Headphones,Electronics,8,267.68,delivered
+1334,Grace Williams,grace.williams91@mail.com,Australia,05/15/2026,Laptop Stand,Electronics,3,48.54,SHIPPED
+1375,Leo Young,leo.young59@inbox.org,New Zealand,05/07/2026,Wool Scarf,Fashion,1,26.52,delivered
+1376,Jack Anderson,jack.anderson38@inbox.org,Australia,01/02/2026,Air Purifier,Home,2,198.68,???
+1178,Leo Lewis,leo.lewis33@example.com,United States,02/20/2026,Wool Scarf,Fashion,1,25.28,pending
+1413,Ava King,ava.king34@shopper.net,Australia,06/04/2026,Mechanical Keyboard,Electronics,1,94.35,shipped
+1372,Ava White,ava.white91@mail.com,Australia,03/12/2026,Air Purifier,Home,2,190.42,delivered
+1319,Tara Carter,tara.carter26@shopper.net,United States,06/05/2026,Smart Watch,Electronics,1,1300.18,delivered
+1316,Kabir Clark,kabir.clark10@inbox.org,Australia,01/15/2026,27in Monitor,Electronics,3,318.23,delivered
+1420,Isla Anderson,isla.anderson84@inbox.org,Australia,2026-01-29,27in Monitor,Electronics,2,344.85,delivered
+1128,harper  PATEL,harper.patel84@inbox.org,Australia,04/23/2026,Yoga Mat,Sports,5,27.44,delivered
+1403,Lucas Wright,lucas.wright27@mail.com,India,02/05/2026,Mechanical Keyboard,Electronics,4,-88.90,cancelled
+1441,Tara Anderson,tara.anderson53@shopper.net,United States,01/19/2026,Tennis Racket,Sports,10,,shipped
+1321,Grace Martin,grace.martin20@mail.com,United Kingdom,02/02/2026,Sci-Fi Anthology,Books,2,19.17,SHIPPED
+1468,Tara Young,tara.young30@example.com,United Kingdom,06/12/2026,Yoga Mat,Sports,2,26.13,cancelled
+1285,Noah Wilson,noah.wilson64@mail.com,Australia,05/18/2026,Throw Blanket,Home,2,,delivered
+1264,Leo Harris,leo.harris61@inbox.org,India,05/22/2026,Denim Jacket,Fashion,2,77.15,lost
+1330,Samuel King,SAMUEL.KING17@MAIL.COM,India,05/10/2026,Leather Wallet,Fashion,10,48.56,shipped
+1427,Ananya Carter,ananya.carter17@example.com,Australia,06/10/2026,Desk Lamp,Home,-3,33.92,shipped
+1133,Daniel Martin,daniel.martin52@shopper.net, India,05/13/2026,Air Purifier,Home,20,198.14,Pending
+1313,Harper Harris,harper.harris59@shopper.net,Australia,04/04/2026,Noise Cancelling Headphones,Electronics,10,225.19,pending
+1392,Ryan Harris,ryan.harris14@shopper.net,United States,01/09/2026,Ceramic Mug Set,Home,20,18.95,shipped
+1063,Meera Nguyen,meera.nguyen99@shopper.net,India,02/21/2026,Throw Blanket,Home,1,58.10,cancelled
+1011,Meera Clark,meera.clark56@shopper.net,United States,01/06/2026, Mechanical Keyboard  ,Electronics,20,85.51,shipped
+1484,Samuel Sharma,samuel.sharma47@inbox.org,Australia,02/19/2026,Desk Lamp,Home,10,29.91,delivered
+1401,Kabir Anderson,kabir.anderson67@shopper.net,Australia,2026-05-17,Leather Wallet,Fashion,1,44.61,delivered
+1485,Arjun King,arjun.king71@mail.com,Australia,02/03/2026,Mechanical Keyboard,Electronics,1,95.38,shipped
+1224,Sofia Harris,SOFIA.HARRIS65@INBOX.ORG,nz,01/24/2026,Denim Jacket,Fashion,2,80.86,pending
+1469,Ava King,ava.king45@example.com,United States,06/26/2026,Air Purifier,Home,2,198.43,cancelled
+1282,Olivia Allen,olivia.allen34@mail.com,United States,06/25/2026,Python Crash Course,Books,20,37.94,delivered
+1137,Olivia Williams,olivia.williams38@inbox.org,AU,01/24/2026, Ceramic Mug Set  ,Home,2,19.53,shipped
+1357,Emily Kumar,emily.kumar29@example.com,United States,05/19/2026,27in Monitor,Electronics,5,307.58,pending
+1496,  Isla   Scott ,isla.scott83@mail.com, India,01/07/2026,Desk Lamp,Home,8,30.92,delivered
+1278,Sofia Brown,sofia.brown33@shopper.net,United Kingdom,04/12/2026,Yoga Mat,Sports,6,26.88,pending
+1301,Ryan Nelson,ryan.nelson2@shopper.net,New Zealand,06/25/2026,Data Science Handbook,Books,2,52.62,delivered
+1099,,emily.young77@shopper.net,India,05/14/2026,Running Shoes,Sports,2,138.43,shipped
+1080,Arjun Clark,arjun.clark73@mail.com,United Kingdom,06/13/2026,Ceramic Mug Set,Home,1,18.65,delivered
+1470,Daniel Wright,daniel.wright49@example.com,United Kingdom,01/05/2026,Laptop Stand,Electronics,8,48.48,delivered
+1472, Jack Brown  ,jack.brown32@mail.com,United States,06/15/2026,Laptop Stand,Electronics,3,48.45,shipped
+1009,Samuel Wright,,United States,05/22/2026,Denim Jacket,Fashion,3,82.24,pending
+1002,Tara Young,tara.young84@mail.com,USA,02/03/2026,Denim Jacket,Fashion,12,73.12,delivered
+1344,Arjun Nguyen,arjun.nguyen45@example.com,New Zealand,06/10/2026,Ceramic Mug Set,Home,8,20.57,delivered
+1156,Nina Anderson,nina.anderson30@shopper.net,United States,01/14/2026,Tennis Racket,Sports,3,157.76,cancelled
+1283,Jack Williams,jack.williams22@shopper.net,United States,01/01/2026,Air Purifier,Home,2,173.70,delivered
+1338,Nina Kumar,nina.kumar26@example.com,,02/02/2026,Sci-Fi Anthology,Books,10,19.32,pending
+1430,Meera Thomas,meera.thomas71@example.com,United Kingdom,02/10/2026,Throw Blanket,Home,20,57.63,delivered
+1488,Sofia Jones,sofia.jones54@example.com,United Kingdom,02/23/2026,USB-C Hub,Electronics,20,37.04,delivered
+1235,Lucas Harris,lucas.harris88@example.com,Australia,05/09/2026,Noise Cancelling Headphones,Electronics,8,261.98,delivered
+1310,Aanya Williams,aanya.williams54@mail.com,Australia,02/08/2026,Tennis Racket,Sports,3,144.61,shipped
+1109,Noah Brown,noah.brown87@example.com,India,04/12/2026,Ceramic Mug Set,Home,4,19.09,SHIPPED
+1473,Aanya Young,aanya.young45@shopper.net,India,06/24/2026,Mechanical Keyboard,Electronics,4,80.39,delivered
+1219,Rohan Clark,rohan.clark89@mail.com,United States,05/08/2026,Smart Watch,Electronics,3,1421.57,shipped
+1273,Priya Nguyen,priya.nguyen82@example.com,United Kingdom,05/21/2026,Data Science Handbook,Books,3,50.79,delivered
+1280,Emily Green,emily.green4@inbox.org,USA,04/08/2026,Leather Wallet,Fashion,3,45.41,delivered
+1169,Daniel Taylor,DANIEL.TAYLOR26@MAIL.COM,Australia,03/16/2026,Desk Lamp,Home,5,32.55,delivered
+1050,Ava Wright,ava.wright85mail.com,Australia,03/25/2026,Sunglasses,Fashion,4,70.41,delivered
+1428,Emily Hall,EMILY.HALL11@MAIL.COM,AU,03/28/2026,Running Shoes,Sports,1,129.36,pending
+1118,Kabir Williams,kabir.williams32@example.com,New Zealand,01/17/2026,27in Monitor,Electronics,,299.22,shipped
+1494,Daniel Green,daniel.green24@example.com,australia,06/27/2026,Air Purifier,Home,1,170.24,shipped
+1265,Mia Kumar,mia.kumar61@inbox.org,Australia,05/31/2026,Laptop Stand,Electronics,3,,delivered
+1392,Ryan Harris,ryan.harris14@shopper.net,United States,01/09/2026,Ceramic Mug Set,Home,20,18.95,shipped
+1030,Olivia Martin,olivia.martin94@example.com,Australia,01/13/2026,Laptop Stand,Electronics,10,48.93,shipped
+1219,ROHAN CLARK,rohan.clark89@mail.com,USA,05/08/2026,Smart Watch,Electronics,3,1421.57,SHIPPED
+1467,Daniel Martin,daniel.martin79@mail.com,Australia,02/15/2026,Python Crash Course,Books,1,31.94,delivered
+1335,Chloe Singh,chloe.singh50@inbox.org,United States,03/05/2026,Throw Blanket,Home,4,50.24,delivered
+1230,Chloe Taylor,chloe.taylor80@inbox.org,United Kingdom,05/16/2026,Python Crash Course,Books,8,31.91,shipped
+1142,Oscar Anderson,oscar.anderson23@shopper.net,Australia,05/28/2026,27in Monitor,Electronics,10,316.13,delivered
+1312,Daniel Anderson,daniel.anderson34@mail.com,United States,05/19/2026,Wireless Mouse,Electronics,10,23.73,shipped
+1351,,arjun.patel56@example.com,United Kingdom,06/05/2026,USB-C Hub,Electronics,3,37.26,shipped
+1184,Aanya Williams,aanya.williams19@inbox.org,New Zealand,06/22/2026,Air Purifier,Home,12,184.95,shipped
+1354,Lucas Allen,lucas.allen62@example.com,Australia,06/22/2026,Wireless Mouse,Electronics,6,26.13,cancelled
+1490,Isla Patel,isla.patel76@mail.com,United States,05/30/2026,Data Science Handbook,Books,1,54.36,PENDING
+1146,Harper Hall,harper.hall19@example.com,United Kingdom,01/25/2026,Air Purifier,Home,10,187.10,delivered
+1454,Noah King,noah.king54@inbox.org,New Zealand,04/28/2026,Air Purifier,Home,12,182.36,shipped
+1458,noah  WILLIAMS,noah.williams26@inbox.org,United States,03/14/2026,Running Shoes,Sports,10,119.41,delivered
+1332,Daniel Allen,DANIEL.ALLEN80@SHOPPER.NET,India,03/04/2026,Dumbbell Set,Sports,1,104.92,shipped
+1434,Arjun White,arjun.white76@shopper.net,United States,01/20/2026,Sci-Fi Anthology,Books,,17.70,shipped
+1429,Olivia Hall,olivia.hall35@inbox.org,United Kingdom,05/06/2026,Noise Cancelling Headphones,Electronics,6,234.89,cancelled
+1476,Mia King,mia.king39@inbox.org,New Zealand,02/02/2026,Sci-Fi Anthology,Books,10,,cancelled
+1112,Ryan Brown,,Australia,01/10/2026,Wireless Mouse,Electronics,2,27.29,pending
+1200,Meera Carter,meera.carter53@example.com,Australia,04/01/2026,Ceramic Mug Set,Home,6,19.47,shipped
+1360,Ananya King,ananya.king21@inbox.org,United States,04/11/2026, Air Purifier  ,Home,4,196.17,pending
+1386,Ava White,ava.white84@example.com,New Zealand,04/30/2026,Leather Wallet,Fashion,20,42.99,delivered
+1040,Kabir Taylor,kabir.taylor84@inbox.org,Australia,06/09/2026,Laptop Stand,Electronics,1,47.21,delivered
+1246,Arjun King,arjun.king1@shopper.net,Australia,05/14/2026,Throw Blanket,Home,,57.61,delivered
+1289,Ethan Carter,ethan.carter98@shopper.net,Australia,05/25/2026,Air Purifier,Home,1,204.35,delivered
+1429,Olivia Hall,olivia.hall35@inbox.org,United Kingdom,05/06/2026,Noise Cancelling Headphones,Electronics,6,234.89,cancelled
+1243,Daniel Green,,India,05/24/2026,Smart Watch,Electronics,8,1227.60,delivered
+1405,Vikram Clark,vikram.clark34@shopper.net,Australia,02/13/2026,Ceramic Mug Set,Home,4,19.11,delivered
+1322,Ethan Anderson,ethan.anderson46@mail.com,,01/19/2026,Ceramic Mug Set,Home,10,20.81,delivered
+1043,Grace Lewis,grace.lewis68@inbox.org,United States,02/27/2026,Data Science Handbook,Books,8,48.93,delivered
+1339,Ryan Harris,ryan.harris26@mail.com,New Zealand,2026-01-22,Desk Lamp,Home,2,33.04,shipped
+1032,Samuel White,samuel.white93example.com,Australia,02/20/2026,Data Science Handbook,Books,1,46.43,delivered
+1179,Mia Sharma,mia.sharma44@example.com,United Kingdom,01/07/2026,Mechanical Keyboard,Electronics,8,93.89,shipped
+1126,Priya Lewis,priya.lewis57@inbox.org,India,03/17/2026,Sci-Fi Anthology,Books,4,17.12,delivered
+1421,Leo Sharma,leo.sharma30@example.com,Australia,03/02/2026,Tennis Racket,Sports,4,160.75,shipped
+1380,Olivia Williams,olivia.williams90@inbox.org,United States,06/23/2026,Noise Cancelling Headphones,Electronics,4,260.65,shipped
+1103,Ava Smith,ava.smith34@mail.com,New Zealand,05/27/2026,Running Shoes,Sports,5,134.62,shipped
+1423,Mia King,mia.king36@example.com,Australia,02/07/2026,Leather Wallet,Fashion,8,47.54,pending
+1010,Jack Singh,jack.singh65@mail.com,United States,01/15/2026,USB-C Hub,Electronics,8,40.83,delivered
+1390,Nina Singh,nina.singh62@shopper.net, united kingdom,04/06/2026,Yoga Mat,Sports,1,29.70,Cancelled
+1245,Grace Kumar,grace.kumar56@example.com,Australia,01/31/2026,Smart Watch,Electronics,8,1246.08,cancelled
+1336,Grace Nelson,grace.nelson1@inbox.org,New Zealand,04/15/2026,Laptop Stand,Electronics,,49.23,pending
+1342,  Olivia   Lewis ,olivia.lewis35@mail.com,United States,05/04/2026,Sunglasses,Fashion,3,70.82,Shipped
+1041,isla  BROWN,isla.brown82@inbox.org,New Zealand,01/27/2026,Noise Cancelling Headphones,Electronics,4,239.55,shipped
+1384,Liam Adams,liam.adams20@example.com,New Zealand,06/18/2026,Smart Watch,Electronics,12,1273.58,Delivered
+1385,tara clark,tara.clark21@shopper.net,Australia,04/01/2026,Running Shoes,Sports,5,137.24,cancelled
+1391,Nina Lewis,nina.lewis78@mail.com,United States,2026-01-03,27in Monitor,Electronics,2,320.93,shipped
+1053,Jack Smith,jack.smith93@inbox.org, India,06/23/2026,Data Science Handbook,Books,3,46.36,delivered
+1117,Harper Allen,harper.allen23@example.com,Australia,06/18/2026,Ceramic Mug Set,Home,3,19.27,delivered
+1337,Nina Harris,nina.harris17@mail.com,Australia,04/16/2026,Sci-Fi Anthology,Books,1,19.68,pending
+1100,Arjun Nguyen,arjun.nguyen44@example.com,United States,02/17/2026,Yoga Mat,Sports,6,31.08,pending
+1304,Chloe Clark,CHLOE.CLARK13@SHOPPER.NET,United States,06/25/2026,Desk Lamp,Home,1,35.00,shipped
+1174, Noah Harris  ,noah.harris30@shopper.net,United Kingdom,01/01/2026,Sci-Fi Anthology,Books,20,18.50,cancelled
+1239,Nina King,nina.king32@mail.com,United States,01/24/2026,27in Monitor,Electronics,6,,shipped
+1418,Daniel Smith,daniel.smith82@example.com,India,06/24/2026,Laptop Stand,Electronics,2,42.75,delivered
+1026,Nina Singh,NINA.SINGH55@MAIL.COM,India,03/25/2026,Wireless Mouse,Electronics,10,25.26,shipped
+1463,Zara King,zara.king9@shopper.net,Australia,04/17/2026,Mechanical Keyboard,Electronics,2,93.88,delivered
+1456,Aanya Wilson,aanya.wilson15@inbox.org,New Zealand,06/14/2026,Laptop Stand,Electronics,1,48.73,delivered
+1117, Harper Allen  ,harper.allen23@example.com,AUSTRALIA ,06/18/2026,Ceramic Mug Set,Home,3,19.27,DELIVERED
+1073,Aanya Brown,aanya.brown51@inbox.org,Australia,03/27/2026,Python Crash Course,Books,20,34.32,shipped
+1173,Ethan Taylor,ethan.taylor88@mail.com,,01/21/2026,Python Crash Course,Books,4,36.13,shipped
+1093,Vikram Carter,vikram.carter62@inbox.org,New Zealand,05/18/2026,Denim Jacket,Fashion,3,78.64,cancelled
+1056,Emily Harris,emily.harris14@inbox.org,Australia,05/23/2026,Python Crash Course,Books,1,35.69,pending
+1191,Leo Smith,leo.smith21@shopper.net,Aus,02/01/2026,Air Purifier,Home,5,186.08,shipped
+1082,Isla Smith,isla.smith43@mail.com,United Kingdom,01/27/2026,Smart Watch,Electronics,6,1369.69,shipped
+1045,Zara Patel,zara.patel37@inbox.org,India,01/19/2026,Wireless Mouse,Electronics,1,25.11,cancelled
+1110,Samuel Green,samuel.green59@shopper.net,India,05/02/2026,Python Crash Course,Books,12,38.45,delivered
+1171, Ava Wright  ,ava.wright12@mail.com,Australia,06/30/2026,Yoga Mat,Sports,20,28.36,Shipped
+1266,Mia Wilson,mia.wilson47@example.com,,05/29/2026,Sci-Fi Anthology,Books,10,18.48,pending
+1455,Olivia Wright,olivia.wright15@inbox.org,Australia,04/04/2026,Noise Cancelling Headphones,Electronics,6,269.59,pending
+1017,Ethan Wright,ethan.wright71@shopper.net,Australia,02/19/2026,Laptop Stand,Electronics,3,44.54,Delivered
+1042,Aanya Lewis,aanya.lewis54@example.com,Australia,02/05/2026,27in Monitor,Electronics,1,303.70,Pending
+1104, Zara Clark  ,zara.clark19@inbox.org,United Kingdom,05/13/2026,27in Monitor,Electronics,4,333.93,shipped
+1114,Rohan Baker,,United States,02/11/2026,Tennis Racket,Sports,3,149.68,pending
+1183,Isla Williams,isla.williams18@example.com,New Zealand,03/14/2026,27in Monitor,Electronics,10,350.26,delivered
+1323,Ethan Jones,ethan.jones90@shopper.net,United States,01/08/2026,Wireless Mouse,Electronics,4,24.20,shipped
+1332,Daniel Allen,DANIEL.ALLEN80@SHOPPER.NET,India,03/04/2026,Dumbbell Set,Sports,1,104.92,shipped
+1404,Ananya Kumar,ananya.kumar35@example.com,New Zealand,06/13/2026,Wool Scarf,Fashion,4,30.03,shipped
+1046,Arjun Allen,arjun.allen80@inbox.org,New Zealand,02/28/2026,USB-C Hub,Electronics,10,42.21,delivered
+1447,Meera Anderson,meera.anderson39@mail.com,New Zealand,01/28/2026,USB-C Hub,Electronics,3,42.91,delivered
+1016,Isla Kumar,isla.kumar37@inbox.org,United Kingdom,03/24/2026,USB-C Hub,Electronics,2,,cancelled
+1377,Isla White,isla.white57@mail.com,United States,03/15/2026,Leather Wallet,Fashion,8,40.94,delivered
+1357,emily  KUMAR,emily.kumar29@example.com,USA,05/19/2026,27in Monitor,Electronics,5,307.58,PENDING
+1201,harper  JONES,harper.jones56@shopper.net,india ,02/16/2026,Denim Jacket,Fashion,20,83.04,DELIVERED
+1181,Grace Martin,grace.martin74@mail.com,United States,05/17/2026,Sci-Fi Anthology,Books,4,17.60,delivered
+1258,Leo Smith,leo.smith60@example.com,India,01/29/2026,Yoga Mat,Sports,0,30.51,delivered
+1048,Harper Wright,harper.wright25@mail.com,Australia,2026-03-20,Throw Blanket,Home,3,55.51,shipped
+1003,Grace Scott,grace.scott44@example.com,Australia,04/11/2026,Data Science Handbook,Books,10,47.26,delivered
+1448,Rohan Taylor,rohan.taylor41@inbox.org,United States,2026-04-21,Smart Watch,Electronics,6,1184.06,pending
+1367,Kabir Allen,kabir.allen84@mail.com,Australia,01/28/2026,Smart Watch,Electronics,1,1230.81,delivered
+1395,Sofia Allen,,United States,04/20/2026,USB-C Hub,Electronics,3,39.63,pending
+1486,Jack Scott,jack.scott48@mail.com,AUSTRALIA ,06/04/2026,USB-C Hub,Electronics,1,37.02,cancelled
+1145,Sofia Nelson,sofia.nelson12@shopper.net,Australia,01/19/2026,Throw Blanket,Home,1,-58.28,shipped
+1226,Meera Walker,meera.walker18@shopper.net,United States,05/27/2026,Ceramic Mug Set,Home,2,20.56,delivered
+1276,Lucas Hall,lucas.hall88@inbox.org,Australia,05/17/2026, Leather Wallet  ,Fashion,2,41.20,delivered
+1138,Ava Sharma,ava.sharma20@example.com,India,04/16/2026,Smart Watch,Electronics,12,-1232.39,shipped
+1416,Ananya Nelson,ananya.nelson85@shopper.net,United States,01/05/2026,Throw Blanket,Home,2,58.00,delivered
+1078,Ryan Clark,ryan.clark85@shopper.net,,02/18/2026,Wool Scarf,Fashion,8,29.82,shipped
+1295,Meera Williams,meera.williams90@shopper.net,Australia,01/28/2026,Yoga Mat,Sports,0,29.29,delivered
+1499,Ethan Taylor,ETHAN.TAYLOR36@SHOPPER.NET,United States,06/12/2026,Laptop Stand,Electronics,6,43.40,shipped
+1240,Lucas Adams,lucas.adams6@inbox.org,United States,04/24/2026,Laptop Stand,Electronics,5,47.37,delivered
+1365,Emily Singh,emily.singh42@mail.com,United States,04/05/2026,Leather Wallet,Fashion,3,43.80,shipped
+1284,Samuel Young,,New Zealand,06/24/2026,Wireless Mouse,Electronics,1,25.34,delivered
+1244,Tara Nguyen,tara.nguyen13@mail.com,Australia,2026-05-29,Wool Scarf,Fashion,5,26.48,cancelled
+1215,  Emily   Green ,emily.green12@example.com,AUSTRALIA ,06/01/2026,Sunglasses,Fashion,6,59.28,CANCELLED
+1399,Mia Brown,mia.brown45@inbox.org,India,2026-05-19,Noise Cancelling Headphones,Electronics,8,244.14,pending
+1465,Samuel Nelson,samuel.nelson10@mail.com,United States,02/12/2026,Laptop Stand,Electronics,2,43.44,delivered
+1091,Sofia Walker,sofia.walker18@mail.com,Australia,02/04/2026,Throw Blanket,Home,0,52.26,shipped
+1333,Tara Anderson,tara.anderson5@mail.com,United States,02/18/2026,Leather Wallet,Fashion,10,44.53,delivered
+1038,Liam Singh,liam.singh34@shopper.net,United Kingdom,06/18/2026,Denim Jacket,Fashion,12,74.78,Delivered
+1069,Ananya King,ananya.king20@example.com,New Zealand,05/09/2026,Mechanical Keyboard,Electronics,8,84.92,pending
+1247,Tara Singh,tara.singh91@mail.com,India,05/03/2026,Sunglasses,Fashion,3,60.32,shipped
+1439,Jack Patel,jack.patel76@shopper.net,United States,03/10/2026,Mechanical Keyboard,Electronics,2,86.80,shipped
+1029, Liam Harris  ,liam.harris32@mail.com,United States,04/30/2026,Python Crash Course,Books,12,36.89,delivered
+1064,Liam Sharma,liam.sharma62@example.com,INDIA,06/06/2026,Running Shoes,Sports,1,132.87,shipped
+1411,Meera Scott,meera.scott89@shopper.net,United States,04/15/2026,Throw Blanket,Home,2,49.36,shipped
+1294,Aanya Jones,aanya.jones38@example.com,India,04/24/2026,Air Purifier,Home,12,186.84,pending
+1110,Samuel Green,samuel.green59@shopper.net,India,05/02/2026,Python Crash Course,Books,12,38.45,delivered
+1389,Ananya Martin,ananya.martin62@mail.com,New Zealand,01/28/2026,Dumbbell Set,Sports,1,107.16,delivered
+1175,Priya Harris,priya.harris10@example.com,Australia,06/26/2026,USB-C Hub,Electronics,2,41.30,shipped
+1180,Ananya Sharma,ananya.sharma27@inbox.org,United States,03/24/2026,27in Monitor,Electronics,10,352.74,pending
+1279,Emily Thomas,emily.thomas41@inbox.org,United States,02/10/2026,Mechanical Keyboard,Electronics,10,81.64,shipped
+1390,Nina Singh,nina.singh62@shopper.net, united kingdom,04/06/2026,Yoga Mat,Sports,1,29.70,Cancelled
+1124,Vikram Wilson,vikram.wilson13@inbox.org,United States,02/12/2026,Dumbbell Set,Sports,1,95.38,pending
+1127,Noah Taylor,noah.taylor6@example.com,United Kingdom,02/23/2026,Tennis Racket,Sports,20,162.01,pending
+1431,Olivia Lewis,olivia.lewis63@shopper.net,India,05/03/2026,Data Science Handbook,Books,2,48.52,delivered
+1474,Vikram Sharma,vikram.sharma1@shopper.net,United Kingdom,05/20/2026,Wool Scarf,Fashion,2,26.61,shipped
+1187,Zara Anderson,zara.anderson76@mail.com,United States,04/12/2026,Laptop Stand,Electronics,8,47.94,delivered
+1294,Aanya Jones,aanya.jones38@example.com,India,04/24/2026,Air Purifier,Home,12,186.84,pending
+1500,Nina Nguyen,nina.nguyen30@mail.com,India,04/21/2026,USB-C Hub,Electronics,12,39.94,delivered
+1442,Liam Hall,liam.hall23@example.com,United Kingdom,06/11/2026,Sci-Fi Anthology,Books,3,20.09,pending
+1252,Chloe Harris,chloe.harris14@inbox.org,United States,04/29/2026,Running Shoes,Sports,3,133.91,cancelled
+1439, Jack Patel  ,jack.patel76@shopper.net, united states ,03/10/2026,Mechanical Keyboard,Electronics,2,86.80,SHIPPED
+1373,Aanya Smith,aanya.smith93@example.com,india ,02/05/2026,Leather Wallet,Fashion,10,41.61,cancelled
+1130,Tara Adams,tara.adams4@inbox.org,United States,03/19/2026,Data Science Handbook,Books,3,,pending
+1253,Olivia Singh,olivia.singh73@inbox.org,US,01/18/2026,Smart Watch,Electronics,1,1365.14,shipped
+1406, Chloe Clark  ,chloe.clark19@mail.com,United States,04/22/2026, Yoga Mat  ,Sports,2,29.12,delivered
+1489, Noah Young  ,noah.young98@mail.com,India,01/08/2026,Sci-Fi Anthology,Books,8,19.16,pending
+1249,Sofia Wright,,Australia,02/08/2026,Sci-Fi Anthology,Books,4,19.74,cancelled
+1101,Emily Anderson,emily.anderson89@mail.com, India,02/13/2026,Tennis Racket,Sports,3,164.46,delivered
+1157,Ryan Kumar,ryan.kumar18@inbox.org,Australia,06/03/2026,Sci-Fi Anthology,Books,20,19.16,delivered
+1001,Olivia Wright,olivia.wright44@example.com,Australia,05/07/2026,Running Shoes,Sports,3,138.25,delivered
+1501,Probe Tester,probe.tester1@example.com,Australia,06/15/2026,Desk Lamp,Home,1,32.00,delivered

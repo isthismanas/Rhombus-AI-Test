@@ -234,7 +234,7 @@ Size: **500 unique orders + 25 duplicate rows = 525 rows × 10 columns ≈ 5,250
 | **Duplicates** | Exact duplicate rows | 15 | Remove (keep first) |
 | | Near-duplicates: same `order_id`, differ only by case/whitespace in text | 10 | Become exact duplicates after normalisation → remove |
 | **Missing values** | `quantity` empty | 20 | Impute median (integer) |
-| | `unit_price` empty | 20 | Impute median (2 dp) |
+| | `unit_price` empty | 21 (odd count, so the median is a real value and rounding can't differ) | Impute median (2 dp) |
 | | `email` empty | 15 | Leave null (nullable) |
 | | `country` empty | 10 | Fill `Unknown` |
 | | `customer_name` empty | 5 | Fill `Unknown` |

@@ -1,0 +1,24 @@
+name: ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  offline-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Lint
+        run: ruff check .
+      - name: No fixed sleeps in tests
+        run: make check-no-sleeps PY=python
+      - name: Datasets are reproducible (seeded generator is byte-identical)
+        run: python datasets/generate.py && git diff --exit-code datasets/
+      - name: Validator unit tests
+        run: python -m pytest data-validation/tests -q

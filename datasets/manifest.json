@@ -1,0 +1,235 @@
+{
+  "seed": 42,
+  "generated_by": "datasets/generate.py",
+  "cases": {
+    "baseline": {
+      "file": "datasets/baseline/orders.csv",
+      "description": "Messy baseline uploaded to S3.",
+      "rows_in": 525,
+      "columns": [
+        "order_id",
+        "customer_name",
+        "email",
+        "country",
+        "order_date",
+        "product",
+        "category",
+        "quantity",
+        "unit_price",
+        "status"
+      ],
+      "sha256": "6cfb23bec4663e0802ec9203f2c20a2b9c43a32687773a2a1a61f642a1e760f6",
+      "expected_rows_out": 480
+    },
+    "probe-extra-row": {
+      "file": "datasets/probe/orders-extra-row.csv",
+      "description": "Baseline + one valid order (1501). Used to prove a run re-reads the S3 object.",
+      "rows_in": 526,
+      "columns": [
+        "order_id",
+        "customer_name",
+        "email",
+        "country",
+        "order_date",
+        "product",
+        "category",
+        "quantity",
+        "unit_price",
+        "status"
+      ],
+      "sha256": "6ce4546d2812c900f011f6a9d5ab8e7b2c79cb530e8d966058a59ae1eda2fe34",
+      "expected_rows_out": 481
+    },
+    "S1": {
+      "file": "datasets/schema/S1-drop-column.csv",
+      "description": "Schema drift: column `country` removed.",
+      "rows_in": 525,
+      "columns": [
+        "order_id",
+        "customer_name",
+        "email",
+        "order_date",
+        "product",
+        "category",
+        "quantity",
+        "unit_price",
+        "status"
+      ],
+      "sha256": "cd5c8abd77ca5f8b8944e955ac1c7a09e1648699a3ae12fe907d398a6a2bb35d",
+      "expected_rows_out": 480
+    },
+    "S2": {
+      "file": "datasets/schema/S2-rename-column.csv",
+      "description": "Schema drift: `customer_name` renamed to `customer_full_name`.",
+      "rows_in": 525,
+      "columns": [
+        "order_id",
+        "customer_full_name",
+        "email",
+        "country",
+        "order_date",
+        "product",
+        "category",
+        "quantity",
+        "unit_price",
+        "status"
+      ],
+      "sha256": "c06defbbe11dd08c8e8b6bd0b820f1bad820b175fe9f27a15d9604ac11358def",
+      "expected_rows_out": 480
+    },
+    "S3": {
+      "file": "datasets/schema/S3-change-data-type.csv",
+      "description": "Schema drift: `unit_price` numeric \u2192 currency text like `$1,249.50`.",
+      "rows_in": 525,
+      "columns": [
+        "order_id",
+        "customer_name",
+        "email",
+        "country",
+        "order_date",
+        "product",
+        "category",
+        "quantity",
+        "unit_price",
+        "status"
+      ],
+      "sha256": "3ececba566a7efcd656ab6254780badb9a6654adfa809b3978d61c95301a5593",
+      "expected_rows_out": 480
+    },
+    "S4": {
+      "file": "datasets/schema/S4-add-column.csv",
+      "description": "Schema drift: new column `discount_code` inserted between `product` and `category`.",
+      "rows_in": 525,
+      "columns": [
+        "order_id",
+        "customer_name",
+        "email",
+        "country",
+        "order_date",
+        "product",
+        "discount_code",
+        "category",
+        "quantity",
+        "unit_price",
+        "status"
+      ],
+      "sha256": "cf7f45fd2428b9ed421d312c3f42661157b1357c47d8b1bb64a5ac12851d76a3",
+      "expected_rows_out": 480
+    },
+    "S5": {
+      "file": "datasets/schema/S5-combined.csv",
+      "description": "Schema drift: S1 + S2 + S3 + S4 combined.",
+      "rows_in": 525,
+      "columns": [
+        "order_id",
+        "customer_full_name",
+        "email",
+        "order_date",
+        "product",
+        "discount_code",
+        "category",
+        "quantity",
+        "unit_price",
+        "status"
+      ],
+      "sha256": "bdeadc6f3a2004df9f8c3d34bb762e382eb8cb0e505208acffbaaad9c92e0803",
+      "expected_rows_out": 480
+    },
+    "M1": {
+      "file": "datasets/semantic/M1-dollars-to-cents.csv",
+      "description": "Semantic drift: `unit_price` in integer cents instead of dollars (\u00d7100).",
+      "rows_in": 525,
+      "columns": [
+        "order_id",
+        "customer_name",
+        "email",
+        "country",
+        "order_date",
+        "product",
+        "category",
+        "quantity",
+        "unit_price",
+        "status"
+      ],
+      "sha256": "15a8312414e55dec3658c8a73c4dca270b6c599649af0111cd4b3553d436222a",
+      "expected_rows_out": 480
+    },
+    "M2": {
+      "file": "datasets/semantic/M2-date-mmdd-to-ddmm.csv",
+      "description": "Semantic drift: `order_date` written DD/MM/YYYY instead of MM/DD/YYYY (ISO rows unchanged).",
+      "rows_in": 525,
+      "columns": [
+        "order_id",
+        "customer_name",
+        "email",
+        "country",
+        "order_date",
+        "product",
+        "category",
+        "quantity",
+        "unit_price",
+        "status"
+      ],
+      "sha256": "6086e731a461cdc8be3709017010804443568d9bcebbc19da56a29ced2d5fe26",
+      "expected_rows_out": 480,
+      "valid_mmdd_rows_day_gt_12": 269,
+      "valid_mmdd_rows_day_le_12": 191
+    },
+    "M3": {
+      "file": "datasets/semantic/M3-country-iso-codes.csv",
+      "description": "Semantic drift (optional): `country` as ISO-3166 alpha-2 codes (AU, US, GB, IN, NZ).",
+      "rows_in": 525,
+      "columns": [
+        "order_id",
+        "customer_name",
+        "email",
+        "country",
+        "order_date",
+        "product",
+        "category",
+        "quantity",
+        "unit_price",
+        "status"
+      ],
+      "sha256": "d66ece9884cacef2901e42dcdf24e3413f3098e310986bed6c4c64f65093b75b",
+      "expected_rows_out": 480
+    }
+  },
+  "baseline_defects": {
+    "rows_in": 525,
+    "unique_orders": 500,
+    "duplicates": {
+      "exact": 15,
+      "near_after_normalisation": 10
+    },
+    "invalid_rows_dropped": {
+      "quantity_le_zero": 8,
+      "unit_price_negative": 5,
+      "order_date_impossible": 3,
+      "status_not_allowed": 4
+    },
+    "missing_values": {
+      "quantity": 20,
+      "unit_price": 21,
+      "email": 15,
+      "country": 10,
+      "customer_name": 5
+    },
+    "malformed_email_set_null": 8,
+    "iso_formatted_dates": 20,
+    "formatting_defects": {
+      "country_variant": 60,
+      "customer_name_messy": 40,
+      "status_case": 30,
+      "email_upper": 15,
+      "product_whitespace": 10
+    },
+    "expected_rows_out": 480,
+    "expected_rows_formula": "525 rows - 25 duplicates - 20 invalid = 480",
+    "imputation_medians": {
+      "quantity": 3.0,
+      "unit_price": 50.79
+    },
+    "expected_clean_sha256": "cd43ccade90581ca74d09b6c8d8b8b2cdba9f15c22db3b02c40c43d24a295483"
+  }
+}
